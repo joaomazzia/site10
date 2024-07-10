@@ -1,0 +1,101 @@
+.conteudo1 {
+   /* border: 1px solid grey; */
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    visibility:hidden;
+}
+
+.curriculo {
+ /*   border: 1px solid grey;  */
+    width: 500px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    background-image: url(assets/1_grvlouewmaa55n5-38635246.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.conteudo2 {
+  /*  border: 1px solid grey;  */
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    visibility: hidden;
+}
+
+.conteudo1, .curriculo, .conteudo2 {
+    margin: 100px;
+}
+
+#divGeral {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    margin: -89px;
+}
+
+    .sobremim {
+    
+     color:rgb(19, 19, 90);
+     width: 300px;
+     height: 150px;
+     margin: 30px;
+    }
+
+    .topo {
+    color:rgb(19, 19, 90); ;
+    width: 300px; 
+    height: 150px;
+    margin: 30px;
+     }
+
+     .pronto {
+    color: rgb(19, 19, 90);
+    width: 300px;
+    height: 150px;
+    margin: 30px;
+
+     }
+
+     .feito {
+        color: rgb(19, 19, 90);
+        width: 300px;
+        height: 110px;
+        margin: 30px;
+     }
+
+     
+    .github {
+    background-color: gray;
+    width: 70px;
+    height: 25px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+#linkButton {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.sorte {
+    color: rgb(19, 19, 90);
+    margin: 30px;
+}
+
+.pagina {
+    border: 1px solid black;
+    width: 700px;
+    margin: 300px;
+    margin-top: 20px;
+}
+
+#sobreMim {
+    text-align: justify;
+}
